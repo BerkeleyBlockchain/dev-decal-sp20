@@ -6,7 +6,7 @@ By Minxing Chen, Simon Zirui Guo, Grace Kull
 2. Clone this repo or create your own by `npm init`.
 3. Install dependencies, particularly the npm package [`web3`](https://www.npmjs.com/package/web3). If you cloned this repo, simply do `npm install`. If using your own node app directory, use `npm install web3`.
 4. Register an [Infura](https://infura.io/ ) account and start a new project. Change the endpoint to the appropriate test net that you are testing with and copy that.
-5. Deploy `omkarbank.sol` from hw2 in remix. Copy the appropriate `ABI` info and the contract address.
+5. Deploy `omkarbank.sol` from hw2 in remix. Make sure you are under `Injected Web3` setting when deployed. Copy the appropriate `ABI` info and the contract address.
    
 ## Interact with Web 3
 Edit your commands in `web3.js` with the appropriate endpoint, address, and ABI info of your contract and account.
