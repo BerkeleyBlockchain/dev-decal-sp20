@@ -15,10 +15,9 @@ Credit from the legendary Ethereum unicorn rider, [BokkyPooBah](https://medium.c
 
 Things you need to change before deployment:
 
-* Line 4: the title of your Smart Contract
-* Line 6, 120 and 121: the Ropsten Ethereum address you created in MyEtherWallet
-* *Line 7 and 116*: Symbol to your respective coin name 
-* Line 8, 102 and 117 to the name of your token
+* *Line 103 and 104*: the Ropsten Ethereum address you created in MyEtherWallet
+* Line 99: Symbol to your respective coin name 
+* Line 85, 100 to the name of your token
 
 
 
