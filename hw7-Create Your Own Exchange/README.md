@@ -35,4 +35,4 @@ Email us a screenshot of your exchange web app after successfully swapping DAI a
 
 In addition, please send us a screenshot of your MetaMask. It should look like something like this. 
 
-![Screenshot of MetaMask](MetaMask.png)
+<img src="MetaMask.png" alt="Screenshot of MetaMask" style="zoom:67%;" />
