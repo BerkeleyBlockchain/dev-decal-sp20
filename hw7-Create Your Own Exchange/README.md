@@ -21,7 +21,7 @@ Before the lecture, please do the following:
 
 In this homework, you will build your own DeFi application, which is an exchange that uses [0x API](https://0x.org/api) to easily swap between [DAI](https://makerdao.com/en/) and [USDC](https://www.centre.io/usdc).
 
-Proceed to [this repo](https://github.com/PirosB3/Blockchain-Lecture-UC-Berkeley) to get started. Shout out to [Daniel Pyrathon](https://github.com/PirosB3) and the 0x team for creating this coding assignment.
+**Proceed** to [this repo](https://github.com/PirosB3/Blockchain-Lecture-UC-Berkeley) and **clone** it to get started. Shout out to [Daniel Pyrathon](https://github.com/PirosB3) and the 0x team for creating this coding assignment.
 
 Before you proceed, we highly recommend you watch the lecture recording of the technical walkthrough.
 
@@ -32,3 +32,7 @@ Before you proceed, we highly recommend you watch the lecture recording of the t
 Email us a screenshot of your exchange web app after successfully swapping DAI and USDC. It should look something like this.
 
 ![Demo of the Web App](demo.png)
+
+In addition, please send us a screenshot of your MetaMask. It should look like something like this. 
+
+![Screenshot of MetaMask](MetaMask.png)
