@@ -2,7 +2,7 @@
 
 Written by Akash Khosla (Blockchain at Berkeley).
 
-In lecture, we covered a high-level overview of Bitcoin Scripting and the Lightning Network.
+In lecture, we covered a high-level overview of **Bitcoin Scripting** and the **Lightning Network**.
 
 For this week, we'll be taking a break from programming and will take some time to play with some demos and write on the design of these protocols.
 
@@ -21,4 +21,4 @@ For this week's checkoff, watch or read **one or more** of the above talks or pa
 
 Your response should have a short summary and your main takeaway. 
 
-You can submit your response [here](https://forms.gle/SCMkVjuwXVhvhn1i7) to be checked off.
+You can submit your response [here](https://forms.gle/fz6efmSyPRmXpuPy6) to be checked off.
