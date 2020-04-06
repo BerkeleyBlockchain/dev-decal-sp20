@@ -22,3 +22,17 @@ For this week's checkoff, watch or read **one or more** of the above talks or pa
 Your response should have a short summary and your main takeaway. 
 
 You can submit your response [here](https://forms.gle/fz6efmSyPRmXpuPy6) to be checked off.
+
+If you're interested in some optional reading, some stuff I left out was regarding SegWit (moving the signatures out of scriptSig and into another designated field called the witness), I recommend reading through this series of articles, which fills in the blanks on how Bitcoin transactions look now.
+[Types of Bitcoin Transactions - Part 1](https://blog.susanka.eu/types-of-bitcoin-transactions-part-i/)
+[Types of Bitcoin Transactions - Part 2](https://blog.susanka.eu/types-of-bitcoin-transactions-part-ii-segwit/)
+
+If you want to learn what it takes to program a Bitcoin wallet, there's some great pages in here - as a challenge, try doing it in another language!: [Programming The Blockchain in C#](https://programmingblockchain.gitbook.io/programmingblockchain/)
+
+
+If you want to tinker with a full node and hack away at the command line, this is also great for better understanding Bitcoin: [Learning Bitcoin from the Command Line](https://github.com/ChristopherA/Learning-Bitcoin-from-the-Command-Line)
+
+I enjoy Mastering Bitcoin as well, but it's more of a reference. Read the section on [Advanced Transactions and Scripting](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch07.asciidoc)
+
+If you manage to complete all of the above, congrats, you're in the <1% who know Bitcoin inside out!
+
