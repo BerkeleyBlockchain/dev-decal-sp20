@@ -81,6 +81,6 @@ For conceptual questions regarding graphs, please refer to the [Blockchain Funda
 
 
 
-### Instruction and Check Off
+### Check Off
 
 Submit your screenshot of the transaction graph the answers to the questions listed above (also can be find in the notebooks for better context) through this [form](https://forms.gle/Dt7cceHuFWnGDnaL8). 

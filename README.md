@@ -43,7 +43,7 @@ Solutions are released after a week, during the subsequent lecture.
 
 #### Contributors
 
-The course staff consists of [Minxing Chen](https://github.com/chenmx00), [Simon Zirui Guo](https://github.com/simonguozirui), [Janice Ng](https://github.com/janice-23), [Haena Lee](https://github.com/cactu-i), [Erika Badalyan](https://github.com/erikabadalyan), and [Grace Kull](https://github.com/gracekull21).
+The course staff consists of [Minxing Chen](https://github.com/chenmx00), [Simon Zirui Guo](https://github.com/simonguozirui), [Grace Kull](https://github.com/gracekull21), [Janice Ng](https://github.com/janice-23), and [Haena Lee](https://github.com/cactu-i).
 
 If you have any questions, please feel free to email us at dev-decal [@] blockchain.berkeley.edu or open an issue on our GitHub repo.
 
