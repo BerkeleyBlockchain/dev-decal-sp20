@@ -53,7 +53,7 @@ Let us know if you run into any issues.
 
 We understand many of you have not worked with these libraries so it might be quite challenging to write code using them. Thus, we have given you all the code necessary to walkthrough the notebook.
 
-Thus, the homework will be more focused on the conceptual aspects. We really want to you to think about what all these data analytics in the context of blockchain data can tell us about the network. To complete the homework:
+Instead, the homework will be more focused on the conceptual aspects. We really want you to think about what all these data analytics in the context of blockchain data can tell us about the network. To complete the homework:
 
 **Step I**
 
@@ -75,7 +75,7 @@ Answer the following questions. They can also be found in the notebook which wil
 
 ### Tips
 
-We suggest you review the slides, especially the part about graphs. The video walkthrough of the homework by Daniel could be quite helpful too with some hints he gave along the way.
+We suggest you review the slides, especially the part about graphs. The video walk through of the homework by Daniel could be quite helpful too with some hints he gave along the way.
 
 For conceptual questions regarding graphs, please refer to the [Blockchain Fundamental DeCal](https://blockchain.berkeley.edu/courses/spring-2020-fundamentals-decal/) and check out the lecture on `Bitcoin IRL: Wallets, Mining, and More`.
 
