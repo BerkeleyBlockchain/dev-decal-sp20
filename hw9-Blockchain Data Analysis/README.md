@@ -65,11 +65,19 @@ Answer the following questions. They can also be found in the notebook which wil
 
 1. [In Part 1] Give one reason that explains why the growth rate in the number of blocks mined is different from the growth rate of the number of transactions mined.
 
+   <u>Answer:</u>  Because at the beginning of the network the capacity of the blocks was not fully utilized.
+
 2. [In Part 2] What is the 'public' name of the miner (mining operation) found in the previous question? (**hint**: Use the miners address and look it up in your favorite block explorer, eg. [Etherscan](https://etherscan.io/)) 
+
+   <u>Answer:</u> DwarfPool1
 
 3. [In Part 5] What is the relationship between the two values calculated above? 
 
+   <u>Answer:</u> The two quantities are the same because every outward edge of a node is counted as an inward edge of another node.
+
 4. [In Part 5] How do you interpret the number above? 
+
+   <u>Answer:</u> means that the graph has 0.02% of the total number of edges it could have if it were a complete graph.
 
    
 
