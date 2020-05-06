@@ -8,6 +8,8 @@ This repo consists of the homework and solutions for [CS 198-077 Blockchain for 
 
 The course website and slides can be found [here](https://blockchain.berkeley.edu/spring-2020-developers-decal/). Slides are updated weekly.
 
+Update (May, 2020): Solutions of all homework has been posted here as well.
+
 
 
 #### Goal

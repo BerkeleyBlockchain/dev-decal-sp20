@@ -1,4 +1,4 @@
-# HW2 - What Would Solidity Print?
+# HW3 - What Would Solidity Print?
 
 Written by Jenny Cong, Edited by Minxing Chen and Simon Guo.
 
